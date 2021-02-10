@@ -8,16 +8,14 @@ Oi! Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesi
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |add \<link para o vídeo ou playlist>| Toque playlists do Spotify e do Youtube, links de vídeos etc | |
-|play \<link para o vídeo>| Toca o link do vídeo | |
-|spotify \<link para a playlist> | Toca a playlist do Spotify | spt |
-|youtube \<link para a playlist> | Toca a playlist do Youtube| yt |
-|pause| Da uma parada no que estiver tocando | |
-|resume| Volta a tocar o que tinha sido parado | |
 |skip| Música chata tocando? Pule ela! | skp |
 |leave| Cansou de música? Tudo bem! Eu volto depois :) | |
 |shuffle| Mude a ordem da playlist | |
 |queue| Veja sua lista de músicas | |
 |lyrics| Veja a letra da música que está tocando e cante junto | letras |
+|play \<link para o vídeo>| Toca o link do vídeo | |
+|spotify \<link para a playlist> | Toca a playlist do Spotify | spt |
+|youtube \<link para a playlist> | Toca a playlist do Youtube| yt |
 
 ## Podcast
 | Comando | Descrição  | Aliases |
@@ -53,6 +51,11 @@ Oi! Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesi
 |ratinho| Receba um vídeo do ratinho ||
 |rapaz| Receba um RÁPÁAAAZ do Xaropinho ||
 |meme| Que tal receber um meme no seu canal? ||
+|testedepaternidade @usuario @usuario| Eita! Será que o @usuario é ou não o pai? | paternidade |
+
+## NSFW (Precisa de um canal NSFW para ser executado)
+| Comando | Descrição  | Aliases |
+|sexyanime @usuario| Uau! Veja o @usuario numa versão anime bem sexy ||
 
 ## Gerais
 | Comando | Descrição  | Aliases |
