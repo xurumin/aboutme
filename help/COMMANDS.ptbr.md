@@ -5,13 +5,13 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 > ⚠️ **Atencão:** Por padrão, o prefixo dos comandos é **x!**
 
 ## Guia
-* [🎵 Música](#🎵 Música)
-* [🎙️ Podcast](#🎙️ Podcast)
-* [😂 Memes](#😂 Memes)
-  * [🖼️ Imagens](#🖼️ Imagens)
-  * [❗ Outros](#❗ Outros)
-  * [🔞👀 NSFW](#🔞👀 NSFW)
-* [⚙️ Gerais](#⚙️ Gerais)
+* [🎵 Música](#-música)
+* [🎙️ Podcast](#-Podcast)
+* [😂 Memes](#-Memes)
+  * [🖼️ Imagens](#-Imagens)
+  * [❗ Outros](#-Outros)
+  * [🔞👀 NSFW](#-NSFW)
+* [⚙️ Gerais](#-Gerais)
 
 
 ## 🎵 Música
