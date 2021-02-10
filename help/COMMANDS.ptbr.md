@@ -4,16 +4,6 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 
 > ⚠️ **Atencão:** Por padrão, o prefixo dos comandos é **x!**
 
-* * *
-
-***
-
-*****
-
-- - -
-
----------------------------------------
-
 ## Guia
 * [🎵 Música](#-música)
 * [🎙️ Podcast](#-Podcast)
@@ -23,6 +13,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
   * [🔞👀 NSFW](#-NSFW)
 * [⚙️ Gerais](#-Gerais)
 
+* * *
 
 ## 🎵 Música
 | Comando | Descrição  | Aliases |
@@ -37,10 +28,14 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |spotify \<link para a playlist> | Toca a playlist do Spotify | spt |
 |youtube \<link para a playlist> | Toca a playlist do Youtube| yt |
 
+* * *
+
 ## 🎙️ Podcast
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |podcast \<nome do podcast>| Procura e toca um podcast | pdc |
+
+* * *
 
 ## 😂 Memes
 | Comando | Descrição  | Aliases |
@@ -85,6 +80,8 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 | Comando | Descrição  | Aliases |
 |--|--|--|
 | sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy ||
+
+* * *
 
 ## ⚙️ Gerais
 | Comando | Descrição  | Aliases |
