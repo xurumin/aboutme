@@ -4,6 +4,16 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 
 > ⚠️ **Atencão:** Por padrão, o prefixo dos comandos é **x!**
 
+* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+
 ## Guia
 * [🎵 Música](#-música)
 * [🎙️ Podcast](#-Podcast)
