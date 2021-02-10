@@ -78,6 +78,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 
 ### 🔞👀 NSFW
 > (Precisa de um canal NSFW para ser executado)
+
 | Comando | Descrição  | Aliases |
 |--|--|--|
 | sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy ||
