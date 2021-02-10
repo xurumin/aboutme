@@ -65,6 +65,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 ### ❗ Outros
 | Comando | Descrição  | Aliases |
 |--|--|--|
+|meme| Que tal receber um meme no seu canal? ||
 |pedro| pedro ||
 |juan| juan ||
 |ratinho| Receba um vídeo do ratinho ||
@@ -72,7 +73,6 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |cat| Receba a imagem de um gatinho fofinho :3 | gato |
 |fish| Que tal um peixin? | peixe |
 |fusca| Receba a imagem de um fusca | beetle |
-|meme| Que tal receber um meme no seu canal? ||
 |xkcd| Receba um meme do XKCD ||
 |catbobbing| O gif do gatinho mexendo a cabeça |gatodancando, gatinhodancando, gatobalancando, catbobbinghead|
 
@@ -81,7 +81,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 
 | Comando | Descrição  | Aliases |
 |--|--|--|
-| sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy ||
+| sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy 😈 ||
 
 * * *
 
