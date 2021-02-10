@@ -5,9 +5,16 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 > ⚠️ **Atencão:** Por padrão, o prefixo dos comandos é **x!**
 
 ## Guia
-[Música](#Música)
+* [🎵 Música](#🎵 Música)
+* [🎙️ Podcast](#🎙️ Podcast)
+* [😂 Memes](#😂 Memes)
+  * [🖼️ Imagens](#🖼️ Imagens)
+  * [❗ Outros](#❗ Outros)
+  * [🔞👀 NSFW](#🔞👀 NSFW)
+* [⚙️ Gerais](#⚙️ Gerais)
 
-## Música
+
+## 🎵 Música
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |add \<link para o vídeo ou playlist>| Toque playlists do Spotify e do Youtube, links de vídeos etc | |
@@ -64,9 +71,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |xkcd| Receba um meme do XKCD ||
 |catbobbing| O gif do gatinho mexendo a cabeça |gatodancando, gatinhodancando, gatobalancando, catbobbinghead|
 
-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
-
-## 🔞👀 NSFW (Precisa de um canal NSFW para ser executado)
+### 🔞👀 NSFW (Precisa de um canal NSFW para ser executado)
 | Comando | Descrição  | Aliases |
 |sexyanime @usuario| Uau! Veja o @usuario numa versão anime bem sexy ||
 
