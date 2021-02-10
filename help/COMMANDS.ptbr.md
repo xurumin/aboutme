@@ -62,6 +62,13 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |espelhoespelhomeu| Veja o que o espelho tem a dizer sobre você |espelho, espelhomeu|
 |soolhe| Digite amém ou só olhe ||
 
+### 🔞👀 NSFW
+> (Precisa de um canal NSFW para ser executado)
+
+| Comando | Descrição  | Aliases |
+|--|--|--|
+| sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy 😈 ||
+
 ### ❗ Outros
 | Comando | Descrição  | Aliases |
 |--|--|--|
@@ -75,13 +82,6 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |fusca| Receba a imagem de um fusca | beetle |
 |xkcd| Receba um meme do XKCD ||
 |catbobbing| O gif do gatinho mexendo a cabeça |gatodancando, gatinhodancando, gatobalancando, catbobbinghead|
-
-### 🔞👀 NSFW
-> (Precisa de um canal NSFW para ser executado)
-
-| Comando | Descrição  | Aliases |
-|--|--|--|
-| sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy 😈 ||
 
 * * *
 
