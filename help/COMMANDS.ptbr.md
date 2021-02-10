@@ -77,7 +77,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |catbobbing| O gif do gatinho mexendo a cabeça |gatodancando, gatinhodancando, gatobalancando, catbobbinghead|
 
 ### 🔞👀 NSFW
-(Precisa de um canal NSFW para ser executado)
+> (Precisa de um canal NSFW para ser executado)
 | Comando | Descrição  | Aliases |
 |--|--|--|
 | sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy ||
