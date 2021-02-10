@@ -1,10 +1,13 @@
 # Lista de comandos do Xurumin
 
-Oi! Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesite em chamar!
+Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesite em chamar!
 
-> **Atencão:** Por padrão, o prefixo dos comandos é **x!**
+> ⚠️ **Atencão:** Por padrão, o prefixo dos comandos é **x!**
 
-## Musica
+## Guia
+[Música](#Música)
+
+## Música
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |add \<link para o vídeo ou playlist>| Toque playlists do Spotify e do Youtube, links de vídeos etc | |
@@ -17,12 +20,12 @@ Oi! Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesi
 |spotify \<link para a playlist> | Toca a playlist do Spotify | spt |
 |youtube \<link para a playlist> | Toca a playlist do Youtube| yt |
 
-## Podcast
+## 🎙️ Podcast
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |podcast \<nome do podcast>| Procura e toca um podcast | pdc |
 
-## Memes
+## 😂 Memes
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |politico ou politico @usuario| Mostre a todo servidor sua campanha política ||
@@ -30,7 +33,7 @@ Oi! Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesi
 |marcarbriga| Chame aquele besta pra uma briga justa ||
 |marcarbeijo| Porque não chamar teu crush pra beijar? Não custa nada. né... ||
 
-### Imagens
+### 🖼️ Imagens
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |filosofo ou filosofo \<texto a ser dito>| O que será que disse o filósofo? | filo, filosofos |
@@ -47,7 +50,7 @@ Oi! Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesi
 |espelhoespelhomeu| Veja o que o espelho tem a dizer sobre você |espelho, espelhomeu|
 |soolhe| Digite amém ou só olhe ||
 
-### Gerais
+### ❗ Outros
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |pedro| pedro ||
@@ -63,11 +66,11 @@ Oi! Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não hesi
 
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 
-## NSFW (Precisa de um canal NSFW para ser executado)
+## 🔞👀 NSFW (Precisa de um canal NSFW para ser executado)
 | Comando | Descrição  | Aliases |
 |sexyanime @usuario| Uau! Veja o @usuario numa versão anime bem sexy ||
 
-## Gerais
+## ⚙️ Gerais
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |ping| Verifique o ping do bot | |
