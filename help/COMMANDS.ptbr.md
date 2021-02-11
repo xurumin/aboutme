@@ -9,7 +9,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 * [🎙️ Podcast](#-Podcast)
 * [😂 Memes](#-Memes)
   * [🖼️ Imagens](#-Imagens)
-  * [🖼️😵‍ Gifs](#-Gifs)
+  * [🖼️😵‍ Gifs](#%EF%B8%8F-gifs)
   * [❗ Outros](#-Outros)
   * [🔞👀 NSFW](#-NSFW)
 * [⚙️ Gerais](#-Gerais)
