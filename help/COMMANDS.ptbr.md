@@ -68,7 +68,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 
 | Comando | Descrição  | Aliases |
 |--|--|--|
-| sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy 😈 ||
+| sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy 😈 |ecchi|
 
 ### ❗ Outros
 | Comando | Descrição  | Aliases |
