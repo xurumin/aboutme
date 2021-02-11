@@ -97,7 +97,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 * * *
 
 ## 💡 WIP
-> Estes comandos estão em *fase de testes*. Por favor, use-os com moderação.
+> Estes comandos estão em **fase de testes**. Por favor, use-os com moderação.
 
 | Comando | Descrição  | Aliases |
 |--|--|--|
