@@ -12,6 +12,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
   * [❗ Outros](#-Outros)
   * [🔞👀 NSFW](#-NSFW)
 * [⚙️ Gerais](#-Gerais)
+* [💡 WIP](#-WIP)
 
 * * *
 
@@ -92,3 +93,16 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |--|--|--|
 |ping| Verifique o ping do bot | |
 |uptime| Mostra a quanto tempo o bot está online | |
+
+* * *
+
+## 💡 WIP
+> Estes comandos estão em *fase de testes*. Por favor, use-os com moderação.
+
+| Comando | Descrição  | Aliases |
+|--|--|--|
+|profile| Mostra o perfil do usuário| |
+|setbackground| Muda o background do perfil (somente imagens do UNSPLASH são aceitas no momento) | setbg |
+|setaboutme| Muda o "Sobre mim" do perfil | setabout |
+|pay @usuario <valor>| Paga a um usuário um valor x | |
+
