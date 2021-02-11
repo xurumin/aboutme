@@ -61,6 +61,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |xvidros| Qual será o vídeo do Xvidros dessa vez? |xvd, xv|
 |espelhoespelhomeu| Veja o que o espelho tem a dizer sobre você |espelho, espelhomeu|
 |soolhe| Digite amém ou só olhe ||
+|outravida| Como será que você seria em outra vida? ||
 
 ### 🔞👀 NSFW
 > (Precisa de um canal NSFW para ser executado)
