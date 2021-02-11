@@ -9,6 +9,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 * [🎙️ Podcast](#-Podcast)
 * [😂 Memes](#-Memes)
   * [🖼️ Imagens](#-Imagens)
+  * [🖼️😵‍ Gifs](#-Gifs)
   * [❗ Outros](#-Outros)
   * [🔞👀 NSFW](#-NSFW)
 * [⚙️ Gerais](#-Gerais)
@@ -63,6 +64,15 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |soolhe @usuario| Digite amém ou só olhe ||
 |outravida @usuario| Como será que você seria em outra vida? ||
 |gatinhodamamae @usuario| Mostre para todo mundo quem é o gatinho da mamae ||
+|sedutoresdainternet| Cuidado com esses sedutores da internet |cuidadosedutores|
+|humorkkjkk| Vem ver o quão engraçado é esse cara kkkkk |humorepiadas|
+
+### 🖼️😵‍ Gifs
+> Estes comandos estão em **fase de testes**. Por favor, use-os com moderação.
+
+| Comando | Descrição  | Aliases |
+|--|--|--|
+|catgif| Receba um gif de gatinho mexendo a cabeça na sua foto (🤔)||
 
 ### 🔞👀 NSFW
 > (Precisa de um canal NSFW para ser executado)
