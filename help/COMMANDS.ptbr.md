@@ -44,24 +44,24 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |testedepaternidade @usuario @usuario| Eita! Será que o @usuario é ou não o pai? | paternidade |
 |marcarbriga| Chame aquele besta pra uma briga justa ||
 |marcarbeijo| Porque não chamar teu crush pra beijar? Não custa nada. né... ||
+|crush @usuario| Mostre pro seu crush que você ama ele(a) ||
 
 ### 🖼️ Imagens
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |filosofo ou filosofo \<texto a ser dito>| O que será que disse o filósofo? | filo, filosofos |
 |eufilosofo ou eufilosofo \<texto a ser dito>| Seja um filósofo e diga sua sabedoria por aí | eufilo |
-|gatinhodamamae @usuario| Mostre para todo mundo quem é o gatinho da mamae ||
 |monarktweet| Viu o Monark tweetou dessa vez? | monarktw, mktwt, monarktwt |
 |felipenetotweet| Viu que o Felipe Neto tweetou dessa vez? | felipeneto, felipinho, felipenetotwt, felipetwt |
 |bolsonarotweet| Viu que o Bolsonaro tweetou dessa vez? | bolsonarotwt, bolsotwt |
 |indoatras| Vá atrás desse tal por que ele fez aquilo | indoatrasdessetalde, indoatrasdesse, iadtd |
 |manualdomundo| Você viu esse vídeo do Manual do mundo? | mdm |
-|crush @usuario| Mostre pro seu crush que você ama ele(a) ||
 |carteirinha| Mostra para todos que você tem uma carteirinha |carteira|
 |xvidros| Qual será o vídeo do Xvidros dessa vez? |xvd, xv|
 |espelhoespelhomeu| Veja o que o espelho tem a dizer sobre você |espelho, espelhomeu|
 |soolhe| Digite amém ou só olhe ||
 |outravida| Como será que você seria em outra vida? ||
+|gatinhodamamae @usuario| Mostre para todo mundo quem é o gatinho da mamae ||
 
 ### 🔞👀 NSFW
 > (Precisa de um canal NSFW para ser executado)
