@@ -73,6 +73,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 ### ❗ Outros
 | Comando | Descrição  | Aliases |
 |--|--|--|
+|piadas| Receba uma bela piadoca :) |piada, joke|
 |meme| Que tal receber um meme no seu canal? ||
 |pedro| pedro ||
 |juan| juan ||
