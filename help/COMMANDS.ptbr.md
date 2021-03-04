@@ -68,6 +68,8 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |humorkkjkk| Vem ver o quão engraçado é esse cara kkkkk |humorepiadas|
 |mucagas| MU QUI NHA? ENTREGADOR? |smurfdomucaentregador|
 |daqueeutedououtra| Dá que eu te dou outra |dqetdo|
+|licencadepesca @usuario| Mostre a todos sua licença de pesca |fishinglicense, fishinglicensepatrick|
+
 
 ### 🖼️😵‍ Gifs
 > Estes comandos estão em **fase de testes**. Por favor, use-os com moderação.
