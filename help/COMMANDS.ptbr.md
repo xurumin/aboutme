@@ -66,6 +66,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |gatinhodamamae @usuario| Mostre para todo mundo quem é o gatinho da mamae ||
 |sedutoresdainternet| Cuidado com esses sedutores da internet |cuidadosedutores|
 |humorkkjkk| Vem ver o quão engraçado é esse cara kkkkk |humorepiadas|
+|mucagas| MU QUI NHA? ENTREGADOR? |smurfdomucaentregador|
 
 ### 🖼️😵‍ Gifs
 > Estes comandos estão em **fase de testes**. Por favor, use-os com moderação.
