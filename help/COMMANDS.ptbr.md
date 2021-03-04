@@ -67,6 +67,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |sedutoresdainternet| Cuidado com esses sedutores da internet |cuidadosedutores|
 |humorkkjkk| Vem ver o quão engraçado é esse cara kkkkk |humorepiadas|
 |mucagas| MU QUI NHA? ENTREGADOR? |smurfdomucaentregador|
+|daqueeutedououtra| Dá que eu te dou outra |dqetdo|
 
 ### 🖼️😵‍ Gifs
 > Estes comandos estão em **fase de testes**. Por favor, use-os com moderação.
