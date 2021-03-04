@@ -8,7 +8,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 * [🎵 Música](#-música)
 * [🎙️ Podcast](#-Podcast)
 * [😂 Memes](#-Memes)
-  * [🖼️ Imagens](#-Imagens)
+  * [🖼️ Imagens](#%EF%B8%8F-imagens)
   * [🖼️😵‍ Gifs](#%EF%B8%8F-gifs)
    * [🔞👀 NSFW](#-NSFW)
   * [❗ Outros](#-Outros)
