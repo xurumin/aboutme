@@ -111,5 +111,8 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 
 | Comando | Descrição  | Aliases |
 |--|--|--|
-
+|profile| Mostra o perfil do usuário| |
+|setbackground /<link para o arquivo .png> | Muda o background do x!perfil (somente imagens hospedadas no IMGUR.COM) | setbg |
+|setaboutme| Muda o "Sobre mim" do perfil | setabout, aboutme, sobremim, mudarsobremim |
+|pay @usuario <valor>| Paga a um usuário um valor x | |
 
