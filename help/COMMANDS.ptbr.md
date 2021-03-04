@@ -43,7 +43,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |politico @usuario| Mostre a todo servidor sua campanha política ||
-|testedepaternidade @usuario| Eita! Será que o @usuario é ou não o pai? | paternidade |
+|testedepaternidade @usuario @usuario| Eita! Será que o @usuario é ou não o pai? | paternidade |
 |marcarbriga @usuario| Chame aquele besta pra uma briga justa ||
 |marcarbeijo @usuario| Porque não chamar teu crush pra beijar? Não custa nada. né... ||
 |crush @usuario| Mostre pro seu crush que você ama ele(a) ||
