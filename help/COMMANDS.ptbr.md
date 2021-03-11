@@ -7,7 +7,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 ## Guia
 * [🎵 Música](#-música)
 * [🎙️ Podcast](#%EF%B8%8F-podcast)
-* [🎮 Jogos](#-Memes)
+* [🎮 Jogos](#-jogos)
 * [😂 Memes](#-Memes)
   * [🖼️ Imagens](#%EF%B8%8F-imagens)
   * [🖼️😵‍ Gifs](#%EF%B8%8F-gifs)
