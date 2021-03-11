@@ -7,6 +7,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 ## Guia
 * [🎵 Música](#-música)
 * [🎙️ Podcast](#%EF%B8%8F-podcast)
+* [🎮 Jogos](#-Memes)
 * [😂 Memes](#-Memes)
   * [🖼️ Imagens](#%EF%B8%8F-imagens)
   * [🖼️😵‍ Gifs](#%EF%B8%8F-gifs)
@@ -33,6 +34,13 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |podcast \<nome do podcast>| Procura e toca um podcast | pdc |
+
+* * *
+
+## 🎮 Jogos
+| Comando | Descrição  | Aliases |
+|--|--|--|
+|either| Jogue o famoso "Qual você prefere?" | wouldyourather |
 
 * * *
 
@@ -104,6 +112,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |--|--|--|
 |ping| Verifique o ping do bot | |
 |uptime| Mostra a quanto tempo o bot está online | |
+|updates| Saiba as últimas novidades do Xurumin! | novidades |
 
 * * *
 
