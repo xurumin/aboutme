@@ -41,6 +41,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |either| Jogue o famoso "Qual você prefere?" | wouldyourather |
+|guessthemusic| Tente descobrir qual a música que está tocando | gtm, qualamusica, witm, whatisthemusic |
 
 * * *
 
