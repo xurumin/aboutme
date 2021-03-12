@@ -8,6 +8,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 * [🎵 Música](#-música)
 * [🎙️ Podcast](#%EF%B8%8F-podcast)
 * [🎮 Jogos](#-jogos)
+* [💲 Gambling / Jogatina](#-jogos)
 * [😂 Memes](#-Memes)
   * [🖼️ Imagens](#%EF%B8%8F-imagens)
   * [🖼️😵‍ Gifs](#%EF%B8%8F-gifs)
@@ -38,6 +39,18 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 * * *
 
 ## 🎮 Jogos
+> Estes comandos estão em **fase de testes**. Use-os com moderação.
+
+| Comando | Descrição  | Aliases |
+|--|--|--|
+|racing| Aposte com seus amigos numa corrida de carros divertida | corrida |
+|dice| Jogue os dados e ganhe até 100% do que você postou! (ou perca tudo tentando...) | jogardado, lancardado, rollthedice |
+
+* * *
+
+## 💲 Gambling / Jogatina
+> Estes comandos estão em **fase de testes**. Use-os com moderação.
+ 
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |either <lingua (ex pt, en)>| Jogue o famoso "Qual você prefere?" | wouldyourather |
