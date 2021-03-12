@@ -40,7 +40,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 ## 🎮 Jogos
 | Comando | Descrição  | Aliases |
 |--|--|--|
-|either| Jogue o famoso "Qual você prefere?" | wouldyourather |
+|either <lingua (ex pt, en)>| Jogue o famoso "Qual você prefere?" | wouldyourather |
 |guessthemusic <gênero *ou* playlist do Spotify> <número de rodadas>| Tente descobrir qual a música que está tocando | gtm, qualamusica, witm, whatisthemusic |
 
 * * *
