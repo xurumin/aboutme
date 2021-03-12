@@ -43,8 +43,8 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 
 | Comando | Descrição  | Aliases |
 |--|--|--|
-|racing| Aposte com seus amigos numa corrida de carros divertida | corrida |
-|dice| Jogue os dados e ganhe até 100% do que você postou! (ou perca tudo tentando...) | jogardado, lancardado, rollthedice |
+|either <lingua (ex pt, en)>| Jogue o famoso "Qual você prefere?" | wouldyourather |
+|guessthemusic <gênero *ou* playlist do Spotify> <número de rodadas>| Tente descobrir qual a música que está tocando | gtm, qualamusica, witm, whatisthemusic |
 
 * * *
 
@@ -53,8 +53,8 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
  
 | Comando | Descrição  | Aliases |
 |--|--|--|
-|either <lingua (ex pt, en)>| Jogue o famoso "Qual você prefere?" | wouldyourather |
-|guessthemusic <gênero *ou* playlist do Spotify> <número de rodadas>| Tente descobrir qual a música que está tocando | gtm, qualamusica, witm, whatisthemusic |
+|racing| Aposte com seus amigos numa corrida de carros divertida | corrida |
+|dice| Jogue os dados e ganhe até 100% do que você postou! (ou perca tudo tentando...) | jogardado, lancardado, rollthedice |
 
 * * *
 
