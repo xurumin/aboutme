@@ -91,7 +91,7 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |daqueeutedououtra| Dá que eu te dou outra |dqetdo|
 |licencadepesca @usuario| Mostre a todos sua licença de pesca |fishinglicense, fishinglicensepatrick|
 |noia @usuario| Aff vida. Veja o que o @usuario noia disse |noiafrase|
-
+|pontofraco @usuario @usuario| Todo mundo tem um ponto fraco, não é mesmo? ||
 
 ### 🖼️😵‍ Gifs
 > Estes comandos estão em **fase de testes**. Por favor, use-os com moderação.
