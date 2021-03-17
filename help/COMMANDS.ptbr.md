@@ -122,6 +122,14 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 |xkcd| Receba um meme do XKCD ||
 |catbobbing| O gif do gatinho mexendo a cabeça |gatodancando, gatinhodancando, gatobalancando, catbobbinghead|
 
+
+* * *
+
+## 🔔 Notificações
+| Comando | Descrição  | Aliases |
+|--|--|--|
+|gameoffers| Receba em um canal do seu servidor as melhores ofertas de jogos. | ofertajogo |
+
 * * *
 
 ## ⚙️ Gerais
