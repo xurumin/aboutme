@@ -6,19 +6,6 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
  
 > Quer saber as novidades do Xurumin? Use **x!novidades**
 
-## Guia
-* [🎵 Música](#-música)
-* [🎙️ Podcast](#%EF%B8%8F-podcast)
-* [🎮 Jogos](#-jogos)
-* [💲 Gambling / Jogatina](#-gambling--jogatina)
-* [😂 Memes](#-Memes)
-  * [🖼️ Imagens](#%EF%B8%8F-imagens)
-  * [🖼️😵‍ Gifs](#%EF%B8%8F-gifs)
-   * [🔞👀 NSFW](#-NSFW)
-  * [❗ Outros](#-Outros)
-* [⚙️ Gerais](#%EF%B8%8F-gerais)
-* [💡 WIP](#-WIP)
-
 * * *
 
 ## 🎵 Música
@@ -99,6 +86,13 @@ Oi! 😃 Está é a lista de comandos do bot Xurumin! Se precisar de ajuda, não
 | Comando | Descrição  | Aliases |
 |--|--|--|
 |catgif| Receba um gif de gatinho mexendo a cabeça na sua foto (🤔)||
+
+### 📹 Vídeos
+> Estes comandos estão em **fase de testes**. Por favor, use-os com moderação.
+
+| Comando | Descrição  | Aliases |
+|--|--|--|
+|animescream| Yamete Kudasai (🤔) |gemidoanime|
 
 ### 🔞👀 NSFW
 > (Precisa de um canal NSFW para ser executado)
