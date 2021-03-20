@@ -21,3 +21,10 @@
 |licencadepesca @usuario| Mostre a todos sua licença de pesca |fishinglicense, fishinglicensepatrick|
 |noia @usuario| Aff vida. Veja o que o @usuario noia disse |noiafrase|
 |pontofraco @usuario @usuario| Todo mundo tem um ponto fraco, não é mesmo? ||
+
+### 🔞👀 NSFW
+> (Precisa de um canal NSFW para ser executado)
+
+| Comando | Descrição  | Aliases |
+|--|--|--|
+| sexyanime @usuario | Uau! Veja o @usuario numa versão anime bem sexy 😈 |ecchi|
