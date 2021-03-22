@@ -1,4 +1,4 @@
-### Ajuda
+## Ajuda
 
 > Oi! 😃 Esta é a página de ajuda do Xurumin!
 
