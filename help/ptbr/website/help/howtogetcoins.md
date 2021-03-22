@@ -8,7 +8,7 @@ Ao subir, você ganha Xurumin Coins
 
 ### Jogando!
 O Xurumin possui alguns comandos de que te dão dinheiro.
-Acesse a parte de *Jogos* em comandos e procure por *Jogatina*
+Acesse a parte de **Jogos** em comandos e procure por **Jogatina**
 
 ### Votando no Xurumin
 Em breve ™️
