@@ -1,4 +1,4 @@
-## Como ganhar dinheiro com o Xurumin?
+## Como ganhar Xurumin Coins?
 
 As maneiras mais fáceis de ganhar dinheiro com o Xurumin são:
 
