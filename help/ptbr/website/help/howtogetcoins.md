@@ -13,8 +13,5 @@ Acesse a parte de **Jogos** em comandos e procure por **Jogatina**
 ### Votando no Xurumin
 Em breve ™️
 
-### Comprando Xurumin Coins
-Em breve ™️
-
-### Comprando o Xurumin Premium
+### Assinando o Xurumin
 Em breve ™️
