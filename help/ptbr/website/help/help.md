@@ -4,9 +4,9 @@
 
 >Aqui, você vai encontrar suas principais dúvidas.
 
-> Se ainda assim não encontrar o que procura, você pode perguntar no [servidor do Xurumin](https://discord.com/invite/bvb8YKSCQR)
+> Se ainda assim não encontrar o que procura, você pode perguntar no <a href="https://discord.com/invite/bvb8YKSCQR" target="_blank">servidor do Xurumin</a>
 
-> Você pode acessar a página de comandos [clicando aqui!](/comandos)
+> Você pode acessar a página de comandos <a href="/comandos">clicando aqui!</a>
 
 > Por padrão, o prefixo dos comandos é x!
 
