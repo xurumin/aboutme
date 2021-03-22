@@ -1,3 +1,5 @@
+### Ajuda
+
 > Oi! 😃 Esta é a página de ajuda do Xurumin!
 
 >Aqui, você vai encontrar suas principais dúvidas.
