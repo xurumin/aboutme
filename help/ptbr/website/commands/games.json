@@ -1,52 +1,51 @@
 [
-  {
-    "name": "either",
-    "description": "Jogue o famoso \"Qual você prefere?\"",
-    "aliases": [
-      "wouldyourather"
-    ],
-    "examples": [
-      "either <lingua (ex pt, en)>",
-      "either",
-      "either pt",
-      "either en"
-    ]
-  },
-  {
-    "name": "guessthemusic",
-    "description": "Tente descobrir qual a música que está tocando",
-    "aliases": [
-      "gtm", "qualamusica", "witm", "whatisthemusic"
-    ],
-    "examples": [
-      "guessthemusic <gênero ou playlist do Spotify> <número de rodadas>",
-      "guessthemusic rock 5",
-      "guessthemusic https://open.spotify.com/playlist/37i9dQZF1DX6cg4h2PoN9y?si=bIR1__eaQBi7GRQuPLDLAw 10"
-    ]
-  },
-  ,
-  {
-    "name": "racing",
-    "description": "Aposte com seus amigos numa corrida de carros divertida",
-    "aliases": [
-      "corrida"
-    ],
-    "examples": [
-      "racing"
-    ]
-  },
-,
-  {
-    "name": "dice",
-    "description": "Jogue os dados e ganhe até 100% do que você postou! (ou perca tudo tentando...)",
-    "aliases": [
-      "jogardado",
-      "lancardado",
-      "rollthedice"
-    ],
-    "examples": [
-      "dice <valor> <lado do dado>",
-      "dice 100 5"
-    ]
-  }
-]
+    {
+      "name": "either",
+      "description": "Jogue o famoso \"Qual você prefere?\"",
+      "aliases": [
+        "wouldyourather"
+      ],
+      "examples": [
+        "either <lingua (ex pt, en)>",
+        "either",
+        "either pt",
+        "either en"
+      ]
+    },
+    {
+      "name": "guessthemusic",
+      "description": "Tente descobrir qual a música que está tocando",
+      "aliases": [
+        "gtm", "qualamusica", "witm", "whatisthemusic"
+      ],
+      "examples": [
+        "guessthemusic <gênero ou playlist do Spotify> <número de rodadas>",
+        "guessthemusic rock 5",
+        "guessthemusic https://open.spotify.com/playlist/37i9dQZF1DX6cg4h2PoN9y?si=bIR1__eaQBi7GRQuPLDLAw 10"
+      ]
+    },
+    {
+      "name": "racing",
+      "description": "Aposte com seus amigos numa corrida de carros divertida",
+      "aliases": [
+        "corrida"
+      ],
+      "examples": [
+        "racing"
+      ]
+    },
+    {
+      "name": "dice",
+      "description": "Jogue os dados e ganhe até 100% do que você postou! (ou perca tudo tentando...)",
+      "aliases": [
+        "jogardado",
+        "lancardado",
+        "rollthedice"
+      ],
+      "examples": [
+        "dice <valor> <lado do dado>",
+        "dice 100 5"
+      ]
+    }
+  ]
+  
