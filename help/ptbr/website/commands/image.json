@@ -7,7 +7,7 @@
             "filosofos"
         ],
         "examples": [
-            "filosofo <texto>",
+            "filosofo < texto >",
             "filosofo Eu amo bolo de cenoura!"
         ]
     },
@@ -18,7 +18,7 @@
             "eufilo"
         ],
         "examples": [
-            "eufilosofo <texto>",
+            "eufilosofo < texto >",
             "eufilosofo Não há nada melhor que bolo de cenoura!"
         ]
     },
@@ -29,7 +29,7 @@
             "monarktw", "mktwt", "monarktwt"
         ],
         "examples": [
-          "monarktweet <texto>",
+          "monarktweet < texto >",
           "monarktwt Eu discordo."
         ]
     },
@@ -40,7 +40,7 @@
             "felipeneto", "felipinho", "felipenetotwt", "felipetwt"
         ],
         "examples": [
-            "felipenetotweet <texto>",
+            "felipenetotweet < texto >",
             "felipenetotweet Bolo de cenoura!"
         ]
     },
@@ -52,7 +52,7 @@
             "bolsotwt"
         ],
         "examples": [
-            "bolsonarotweet <texto>",
+            "bolsonarotweet < texto >",
           "bolsonarotweet Pizza e cachorro quente!"
         ]
     },
@@ -63,7 +63,7 @@
             "indoatrasdessetalde", "indoatrasdesse", "iadtd"
         ],
         "examples": [
-            "indoatras <texto>",
+            "indoatras < texto >",
           "indoatras Xurumin"
         ]
     },
@@ -74,7 +74,7 @@
             "mdm"
         ],
         "examples": [
-            "manualdomundo <texto>"
+            "manualdomundo < texto >"
         ]
     },
     {
