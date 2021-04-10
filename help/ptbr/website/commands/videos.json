@@ -1,0 +1,27 @@
+[
+    {
+        "name": "rick",
+        "description": "Receba um vídeo do Rick cantando Never Gonna Give You Up",
+        "aliases": [
+            "rickastley"
+        ],
+        "examples": [
+            "rick @usuário",
+            "rick",
+            "rick @Xurumin"
+        ]
+    },
+    {
+        "name": "animescream",
+        "description": "Yamete Kudasai (🤔)",
+        "aliases": [
+            "gemidoanime"
+        ],
+        "examples": [
+            "animescream @usuário",
+            "animescream @Xurumin",
+            "animescream"
+        ],
+        "tags": ["nsfw"]
+    }
+]
