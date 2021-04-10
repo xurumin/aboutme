@@ -1,0 +1,57 @@
+[
+  {
+    "name": "add",
+    "description": "Toque playlists do Spotify e do Youtube, links de vídeos, faça buscas de vídeos...",
+    "aliases": [],
+    "examples": [
+      "add < link para o vídeo ou playlist >",
+      "add https://open.spotify.com/playlist/37i9dQZF1DX4vCk1GJH7zl?si=7uQkDY7OQfmdUht_B1R3nQ",
+      "add https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "add never gonna give you up"
+    ]
+  },
+  {
+    "name": "skip",
+    "description": "Música chata tocando? Pule ela!",
+    "aliases": [
+      "skp"
+    ],
+    "examples": [
+      "skip"
+    ]
+  },
+  {
+    "name": "leave",
+    "description": "Cansou de música? Tudo bem! Eu volto depois :)",
+    "aliases": [],
+    "examples": [
+      "leave"
+    ]
+  },
+  {
+    "name": "shuffle",
+    "description": "Mude a ordem da playlist",
+    "aliases": [],
+    "examples": [
+      "shuffle"
+    ]
+  },
+  {
+    "name": "queue",
+    "description": "Veja sua lista de músicas",
+    "aliases": [],
+    "examples": [
+      "queue"
+    ]
+  },
+  {
+    "name": "lyrics",
+    "description": "Veja a letra da música que está tocando e cante junto",
+    "aliases": [
+      "letras"
+    ],
+    "examples": [
+       "lyrics"
+    ]
+  }
+]
