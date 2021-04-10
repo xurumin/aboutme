@@ -7,7 +7,7 @@
     ],
     "examples": [
       "either <lingua (ex pt, en)>",
-      "either"
+      "either",
       "either pt",
       "either en"
     ]
@@ -45,8 +45,8 @@
       "rollthedice"
     ],
     "examples": [
-      "dice <valor> <lado do dado>"
+      "dice <valor> <lado do dado>",
       "dice 100 5"
     ]
-  },
+  }
 ]
