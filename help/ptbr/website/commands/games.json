@@ -6,7 +6,7 @@
         "wouldyourather"
       ],
       "examples": [
-        "either <lingua (ex pt, en)>",
+        "either < lingua (ex pt, en) >",
         "either",
         "either pt",
         "either en"
@@ -19,7 +19,7 @@
         "gtm", "qualamusica", "witm", "whatisthemusic"
       ],
       "examples": [
-        "guessthemusic <gênero ou playlist do Spotify> <número de rodadas>",
+        "guessthemusic < gênero ou playlist do Spotify> <número de rodadas >",
         "guessthemusic rock 5",
         "guessthemusic https://open.spotify.com/playlist/37i9dQZF1DX6cg4h2PoN9y?si=bIR1__eaQBi7GRQuPLDLAw 10"
       ]
@@ -43,7 +43,7 @@
         "rollthedice"
       ],
       "examples": [
-        "dice <valor> <lado do dado>",
+        "dice < valor > < lado do dado >",
         "dice 100 5"
       ]
     }
