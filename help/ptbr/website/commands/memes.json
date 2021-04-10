@@ -1,0 +1,163 @@
+[
+    {
+        "name": "politico",
+        "description": "Mostre a todo servidor sua campanha política",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "politico @usuário"
+        ]
+    },
+    {
+        "name": "testedepaternidade",
+        "description": "Eita! Será que o @usuário é ou não o pai?",
+        "aliases": [
+            "paternidade"
+        ],
+        "examples": [
+            "testedepaternidade @usuário @usuário"
+        ]
+    },
+    {
+        "name": "marcarbriga",
+        "description": "Chame aquele frouxo pra uma briga justa",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "marcarbriga @usuário"
+        ]
+    },
+    {
+        "name": "marcarbeijo",
+        "description": "Porque não chamar teu crush pra beijar? Não custa nada. Né?",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "marcarbeijo @usuário"
+        ]
+    },
+    {
+        "name": "crush",
+        "description": "Mostre pro seu crush que você ama ele(a)",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "crush @usuário"
+        ]
+    },
+    {
+        "name": "piadas",
+        "description": "Receba uma bela piadoca :)",
+        "aliases": [
+            "piada", "joke"
+        ],
+        "examples": [
+            "piadas"
+        ]
+    },
+    {
+        "name": "meme",
+        "description": "Que tal receber um meme no seu canal?",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "meme"
+        ]
+    },
+    {
+        "name": "pedro",
+        "description": "pedro",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "pedro"
+        ]
+    },
+    {
+        "name": "juan",
+        "description": "juan",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "juan"
+        ]
+    },
+    {
+        "name": "ratinho",
+        "description": "Receba um vídeo do Ratinho",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "ratinho"
+        ]
+    },
+    {
+        "name": "rapaz",
+        "description": "Receba um RÁPÁAAAZ do Xaropinho",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "rapaz"
+        ]
+    },
+    {
+        "name": "cat",
+        "description": "Receba a imagem de um gatinho fofinho :3",
+        "aliases": [
+            "gato"
+        ],
+        "examples": [
+            "cat"
+        ]
+    },
+    {
+        "name": "fish",
+        "description": "Que tal um peixin?",
+        "aliases": [
+            "peixe"
+        ],
+        "examples": [
+            "fish"
+        ]
+    },
+    {
+        "name": "fusca",
+        "description": "Receba a imagem de um Fusca",
+        "aliases": [
+            "beetle"
+        ],
+        "examples": [
+            "fusca"
+        ]
+    },
+    {
+        "name": "xkcd",
+        "description": "Receba um meme do XKCD",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "xkcd"
+        ]
+    },
+    {
+        "name": "catbobbing",
+        "description": "Receba o gif do gatinho mexendo a cabeça",
+        "aliases": [
+            "gatodancando", "gatodancando", "catbobbinghead"
+        ],
+        "examples": [
+            "catbobbing",
+            "gatodancando"
+        ]
+    }
+]
