@@ -17,7 +17,7 @@
             "setbg"
         ],
         "examples": [
-            "setbackground <link para o arquivo .png>",
+            "setbackground < link para o arquivo .png >",
             "setbackground https://i.imgur.com/3yXE70A.png"
         ]
     },
@@ -28,7 +28,7 @@
             "setabout", "aboutme","sobremim","mudarsobremim"
         ],
         "examples": [
-            "setaboutme <texto>",
+            "setaboutme < texto >",
             "setaboutme Oiê! Tudo bem?"
         ]
     },
@@ -39,7 +39,7 @@
             ""
         ],
         "examples": [
-            "pay @usuário <valor>",
+            "pay @usuário < valor >",
             "pay @Xurumin 500"
         ]
     }
