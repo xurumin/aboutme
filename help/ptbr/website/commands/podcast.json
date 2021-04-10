@@ -6,7 +6,7 @@
             "pdc"
         ],
         "examples": [
-            "podcast <nome do podcast>",
+            "podcast < nome do podcast >",
           "podcast Flow Podcast",
           "podcast Nerdcast"
         ]
