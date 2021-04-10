@@ -1,0 +1,210 @@
+[
+    {
+        "name": "filosofo",
+        "description": "O que será que disse o filósofo?",
+        "aliases": [
+            "filo",
+            "filosofos"
+        ],
+        "examples": [
+            "filosofo <texto>",
+            "filosofo Eu amo bolo de cenoura!"
+        ]
+    },
+    {
+        "name": "eufilosofo",
+        "description": "Seja um filósofo e diga sua sabedoria por aí",
+        "aliases": [
+            "eufilo"
+        ],
+        "examples": [
+            "eufilosofo <texto>",
+            "eufilosofo Não há nada melhor que bolo de cenoura!"
+        ]
+    },
+    {
+        "name": "monarktweet",
+        "description": "Viu o Monark tweetou dessa vez?",
+        "aliases": [
+            "monarktw", "mktwt", "monarktwt"
+        ],
+        "examples": [
+          "monarktweet <texto>",
+          "monarktwt Eu discordo."
+        ]
+    },
+    {
+        "name": "felipenetotweet",
+        "description": "Viu que o Felipe Neto tweetou dessa vez?",
+        "aliases": [
+            "felipeneto", "felipinho", "felipenetotwt", "felipetwt"
+        ],
+        "examples": [
+            "felipenetotweet <texto>",
+            "felipenetotweet Bolo de cenoura!"
+        ]
+    },
+    {
+        "name": "bolsonarotweet",
+        "description": "Viu que o Bolsonaro tweetou dessa vez?",
+        "aliases": [
+            "bolsonarotwt",
+            "bolsotwt"
+        ],
+        "examples": [
+            "bolsonarotweet <texto>",
+          "bolsonarotweet Pizza e cachorro quente!"
+        ]
+    },
+    {
+        "name": "indoatras",
+        "description": "",
+        "aliases": [
+            "indoatrasdessetalde", "indoatrasdesse", "iadtd"
+        ],
+        "examples": [
+            "indoatras <texto>",
+          "indoatras Xurumin"
+        ]
+    },
+    {
+        "name": "manualdomundo",
+        "description": "Você viu esse vídeo do Manual do mundo?",
+        "aliases": [
+            "mdm"
+        ],
+        "examples": [
+            "manualdomundo <texto>"
+        ]
+    },
+    {
+        "name": "carteirinha",
+        "description": "Mostra para todos que você tem uma carteirinha",
+        "aliases": [
+            "carteira"
+        ],
+        "examples": [
+            "carteirinha"
+        ]
+    },
+    {
+        "name": "xvidros",
+        "description": "Qual será o vídeo do XviDros dessa vez?",
+        "aliases": [
+            "xvd"
+        ],
+        "examples": [
+            "xvidros @usuário"
+        ]
+    },
+    {
+        "name": "espelhoespelhomeu",
+        "description": "Veja o que o espelho tem a dizer sobre você",
+        "aliases": [
+            "espelho", "espelhomeu"
+        ],
+        "examples": [
+            "espelhoespelhomeu @usuário"
+        ]
+    },
+    {
+        "name": "soolhe",
+        "description": "Digite amém ou só olhe",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "soolhe @usuário"
+        ]
+    },
+    {
+        "name": "outravida",
+        "description": "Como será que você seria em uma outra vida?",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "outravida @usuário"
+        ]
+    },
+    {
+        "name": "gatinhodamamae",
+        "description": "Mostre para todo mundo quem é o gatinho da mamãe",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "gatinhodamamae @usuário"
+        ]
+    },
+    {
+        "name": "sedutoresdainternet",
+        "description": "Cuidado com esses sedutores da internet",
+        "aliases": [
+            "cuidadosedutores"
+        ],
+        "examples": [
+            "sedutoresdainternet @usuário"
+        ]
+    },
+    {
+        "name": "humorkkjkk",
+        "description": "Vem ver o quão engraçado é esse cara kkkkk",
+        "aliases": [
+            "humorepiadas"
+        ],
+        "examples": [
+            "humorkkjkk @usuário"
+        ]
+    },
+    {
+        "name": "gas",
+        "description": "MU QUI NHA? ENTREGADOR?",
+        "aliases": [
+            "smurfdomucaentregador", "mucagas"
+        ],
+        "examples": [
+            "gas @usuário"
+        ]
+    },
+    {
+        "name": "daqueeutedououtra",
+        "description": "Dá que eu te dou outra",
+        "aliases": [
+            "dqetdo"
+        ],
+        "examples": [
+            "daqueeutedououtra @usuário @usuário @usuário"
+        ]
+    },
+    {
+        "name": "licencadepesca",
+        "description": "Mostre a todos sua licença de pesca",
+        "aliases": [
+            "fishinglicense", "fishinglicensepatrick"
+        ],
+        "examples": [
+            "licencadepesca @usuário"
+        ]
+    },
+    {
+        "name": "pontofraco",
+        "description": "Todo mundo tem um ponto fraco, não é mesmo?",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "pontofraco @usuário @usuário"
+        ]
+    },
+    {
+        "name": "noia",
+        "description": "Veja o que o @usuário noia disse",
+        "aliases": [
+            "noiafrase"
+        ],
+        "examples": [
+            "noia @usuário"
+        ]
+    }
+]
