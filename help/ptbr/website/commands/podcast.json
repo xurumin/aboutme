@@ -1,7 +1,7 @@
 [
     {
         "name": "podcast",
-        "description": "Procura e toca um podcast	",
+        "description": "Procura e toca um podcast",
         "aliases": [
             "pdc"
         ],
