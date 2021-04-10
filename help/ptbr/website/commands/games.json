@@ -1,7 +1,7 @@
 [
   {
     "name": "either",
-    "description": 'Jogue o famoso "Qual você prefere?"',
+    "description": "Jogue o famoso \"Qual você prefere?\"",
     "aliases": [
       "wouldyourather"
     ],
@@ -14,7 +14,7 @@
   },
   {
     "name": "guessthemusic",
-    "description": 'Tente descobrir qual a música que está tocando',
+    "description": "Tente descobrir qual a música que está tocando",
     "aliases": [
       "gtm", "qualamusica", "witm", "whatisthemusic"
     ],
@@ -27,7 +27,7 @@
   ,
   {
     "name": "racing",
-    "description": 'Aposte com seus amigos numa corrida de carros divertida',
+    "description": "Aposte com seus amigos numa corrida de carros divertida",
     "aliases": [
       "corrida"
     ],
@@ -38,7 +38,7 @@
 ,
   {
     "name": "dice",
-    "description": 'Jogue os dados e ganhe até 100% do que você postou! (ou perca tudo tentando...)',
+    "description": "Jogue os dados e ganhe até 100% do que você postou! (ou perca tudo tentando...)",
     "aliases": [
       "jogardado",
       "lancardado",
