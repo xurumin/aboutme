@@ -1,0 +1,13 @@
+[
+    {
+        "name": "gameoffers",
+        "description": "Receba em um canal do seu servidor as melhores ofertas de jogos",
+        "aliases": [
+            "ofertajogo"
+        ],
+        "examples": [
+            "gameoffers",
+            "ofertajogo"
+        ]
+    }
+]
