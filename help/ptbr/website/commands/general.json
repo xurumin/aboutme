@@ -1,0 +1,31 @@
+[{
+        "name": "help",
+        "description": "Precisa de ajuda?",
+        "aliases": [
+            "ajuda"
+        ],
+        "examples": [
+            "help"
+        ]
+    },
+    {
+        "name": "ping",
+        "description": "Verifique o ping do bot",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "ping"
+        ]
+    },
+    {
+        "name": "updates",
+        "description": "Saiba as últimas novidades do Xurumin!	",
+        "aliases": [
+            "novidades"
+        ],
+        "examples": [
+            "updates"
+        ]
+    }
+]
