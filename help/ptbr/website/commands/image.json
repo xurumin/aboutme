@@ -206,5 +206,16 @@
         "examples": [
             "noia @usuário"
         ]
+    },
+    {
+        "name": "sexyanime",
+        "description": "Uau! Veja o @usuario numa versão anime bem sexy 😈",
+        "aliases": [
+            "ecchi"
+        ],
+        "examples": [
+            "sexyanime @usuário"
+        ],
+        "tags": ["nsfw"]
     }
 ]
