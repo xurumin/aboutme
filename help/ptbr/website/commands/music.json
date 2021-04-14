@@ -19,7 +19,7 @@
       "tt", "changetime", "mudartempo", "tempo", "musictime"
     ],
     "examples": [
-      "tt <milissegundos ou tempo>", "tt 20s", "tt 20000", "tt 2:30"
+      "tt < milissegundos ou tempo >", "tt 20s", "tt 20000", "tt 2:30"
     ]
   },
   {
