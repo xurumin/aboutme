@@ -13,6 +13,16 @@
     ]
   },
   {
+    "name": "timetravel",
+    "description": "Mude o tempo da música/podcast que está tocando.",
+    "aliases": [
+      "tt", "changetime", "mudartempo", "tempo", "musictime"
+    ],
+    "examples": [
+      "tt <milissegundos ou tempo>", "tt 20s", "tt 20000", "tt 2:30"
+    ]
+  },
+  {
     "name": "skip",
     "description": "Música chata tocando? Pule ela!",
     "aliases": [
