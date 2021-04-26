@@ -10,6 +10,16 @@
         ]
     },
     {
+        "name": "tropa",
+        "description": "Será que você faz parte da Tropa?",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "tropa"
+        ]
+    },
+    {
         "name": "testedepaternidade",
         "description": "Eita! Será que o @usuário é ou não o pai?",
         "aliases": [
