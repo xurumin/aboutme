@@ -12,6 +12,18 @@
         ]
     },
     {
+        "name": "valorant",
+        "description": "Retorna um videozinho maneiro do vava",
+        "aliases": [
+            "vava"
+        ],
+        "examples": [
+            "valorant @usuário",
+            "valorant",
+            "valorant @Xurumin"
+        ]
+    },
+    {
         "name": "animescream",
         "description": "Yamete Kudasai (🤔)",
         "aliases": [
