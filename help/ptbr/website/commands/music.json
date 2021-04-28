@@ -63,7 +63,9 @@
       "letras"
     ],
     "examples": [
-       "lyrics"
+       "lyrics < nome da música >",
+       "lyrics",
+      "lyrics bad guy"
     ]
   }
 ]
