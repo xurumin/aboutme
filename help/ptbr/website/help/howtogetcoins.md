@@ -11,7 +11,9 @@ O Xurumin possui alguns comandos de que te dão dinheiro.
 Você pode ver algum deles na parte de <a href="https://xurumin.github.io/comandos.html#games">Jogos nos comandos!</a>
 
 ### Votando no Xurumin
-Em breve ™️
+Ao votar no Xurumin, você ajuda o bot a crescer e ainda ganha Coins com isso! <br>
+Você pode votar clicando <a href="https://top.gg/bot/753723888671785042">aqui</a>. <br>
+Lembrando: você só pode votar a cada 12 horas.
 
-### Assinando o Xurumin
+### Mais...
 Em breve ™️
