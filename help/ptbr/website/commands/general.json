@@ -7,6 +7,26 @@
         "examples": [
             "help"
         ]
+    },{
+        "name": "commands",
+        "description": "Quer saber todos os comandos do Xurumin?",
+        "aliases": [
+            "comandos",
+                "cmds"
+        ],
+        "examples": [
+            "commands",
+                "comandos"
+        ]
+    },{
+        "name": "invite",
+        "description": "Quer adicionar o Xurumin em outros servidores?",
+        "aliases": [
+            "convite"
+        ],
+        "examples": [
+            "invite"
+        ]
     },
     {
         "name": "ping",
