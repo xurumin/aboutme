@@ -3,7 +3,7 @@
     "name": "add",
     "description": "Toque playlists do Spotify e do Youtube, links de vídeos, faça buscas de vídeos...",
     "aliases": [
-      "play", "youtube", "spotify"
+      "play", "youtube", "spotify", "spt", "yt", "p"
     ],
     "examples": [
       "add < link para o vídeo ou playlist >",
