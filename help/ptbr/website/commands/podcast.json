@@ -10,5 +10,70 @@
           "podcast Flow Podcast",
           "podcast Nerdcast"
         ]
-    }
+    },
+  {
+    "name": "timetravel",
+    "description": "Mude o tempo da música/podcast que está tocando.",
+    "aliases": [
+      "tt", "changetime", "mudartempo", "tempo", "musictime"
+    ],
+    "examples": [
+      "tt < milissegundos ou tempo >", "tt 20s", "tt 20000", "tt 2:30"
+    ]
+  },
+  {
+    "name": "pause",
+    "description": "Precisa de um minuto de silêncio? Pause o que estiver tocando!",
+    "aliases": [
+      "parar", ""
+    ],
+    "examples": [
+      "pause"
+    ]
+  },
+  {
+    "name": "resume",
+    "description": "Já está pronto(a) pra voltar ao som? Estou aqui pra isso!",
+    "aliases": [
+      "retomar", "voltar"
+    ],
+    "examples": [
+      "resume",
+      "retomar"
+    ]
+  },
+  {
+    "name": "skip",
+    "description": "Som chato tocando? Pule ele!",
+    "aliases": [
+      "skp"
+    ],
+    "examples": [
+      "skip"
+    ]
+  },
+  {
+    "name": "leave",
+    "description": "Cansou de podcast? Tudo bem! Eu volto depois :)",
+    "aliases": [],
+    "examples": [
+      "leave"
+    ]
+  },
+  {
+    "name": "shuffle",
+    "description": "Mude a ordem da playlist",
+    "aliases": [],
+    "examples": [
+      "shuffle"
+    ]
+  },
+  {
+    "name": "queue",
+    "description": "Veja sua lista de músicas/podcast",
+    "aliases": [],
+    "examples": [
+      "queue"
+    ]
+  },
 ]
