@@ -23,6 +23,27 @@
     ]
   },
   {
+    "name": "pause",
+    "description": "Precisa de um minuto de silêncio? Pause o que estiver tocando!",
+    "aliases": [
+      "parar", ""
+    ],
+    "examples": [
+      "pause"
+    ]
+  },
+  {
+    "name": "resume",
+    "description": "Já está pronto(a) pra voltar ao som? Estou aqui pra isso!",
+    "aliases": [
+      "retomar", "voltar"
+    ],
+    "examples": [
+      "resume",
+      "retomar"
+    ]
+  },
+  {
     "name": "skip",
     "description": "Música chata tocando? Pule ela!",
     "aliases": [
