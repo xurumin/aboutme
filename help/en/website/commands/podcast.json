@@ -1,0 +1,14 @@
+[
+    {
+        "name": "podcast",
+        "description": "Procura e toca um podcast",
+        "aliases": [
+            "pdc"
+        ],
+        "examples": [
+            "podcast < nome do podcast >",
+          "podcast Flow Podcast",
+          "podcast Nerdcast"
+        ]
+    }
+]

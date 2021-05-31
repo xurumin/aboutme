@@ -1,0 +1,46 @@
+[
+    {
+        "name": "profile",
+        "description": "Mostra o perfil do usuário",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "profile @usuário",
+            "profile"
+        ]
+    },
+    {
+        "name": "setbackground",
+        "description": "Muda o background do x!perfil (somente imagens hospedadas no IMGUR.COM)",
+        "aliases": [
+            "setbg"
+        ],
+        "examples": [
+            "setbackground < link para o arquivo .png >",
+            "setbackground https://i.imgur.com/3yXE70A.png"
+        ]
+    },
+    {
+        "name": "setaboutme",
+        "description": "Muda o \"Sobre mim\" do perfil",
+        "aliases": [
+            "setabout", "aboutme","sobremim","mudarsobremim"
+        ],
+        "examples": [
+            "setaboutme < texto >",
+            "setaboutme Oiê! Tudo bem?"
+        ]
+    },
+    {
+        "name": "pay",
+        "description": "Quer dar um dinheirinho ao seu pobre amigo? Use esse comando.",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "pay @usuário < valor >",
+            "pay @Xurumin 500"
+        ]
+    }
+]

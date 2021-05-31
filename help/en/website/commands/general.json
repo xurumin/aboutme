@@ -1,0 +1,51 @@
+[{
+        "name": "help",
+        "description": "Precisa de ajuda?",
+        "aliases": [
+            "ajuda"
+        ],
+        "examples": [
+            "help"
+        ]
+    },{
+        "name": "commands",
+        "description": "Quer saber todos os comandos do Xurumin?",
+        "aliases": [
+            "comandos",
+                "cmds"
+        ],
+        "examples": [
+            "commands",
+                "comandos"
+        ]
+    },{
+        "name": "invite",
+        "description": "Quer adicionar o Xurumin em outros servidores?",
+        "aliases": [
+            "convite"
+        ],
+        "examples": [
+            "invite"
+        ]
+    },
+    {
+        "name": "ping",
+        "description": "Verifique o ping do bot",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "ping"
+        ]
+    },
+    {
+        "name": "updates",
+        "description": "Saiba as últimas novidades do Xurumin!",
+        "aliases": [
+            "novidades"
+        ],
+        "examples": [
+            "updates"
+        ]
+    }
+]

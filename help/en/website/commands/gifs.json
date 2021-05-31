@@ -1,0 +1,14 @@
+[
+  {
+        "name": "catgif",
+        "description": "Receba um gif de gatinho mexendo a cabeça na sua foto (🤔)",
+        "aliases": [
+            ""
+        ],
+        "examples": [
+            "catgif @usuário",
+            "catgif @Xurumin",
+            "catgif"
+        ]
+    }
+]
