@@ -33,6 +33,15 @@
     ]
   },
   {
+    "name": "twitch",
+    "description": "Ouça streams da Twitch direto do seu servidor!",
+    "aliases": [
+    ],
+    "examples": [
+      "twitch https://www.twitch.tv/coreano"
+    ]
+  },
+  {
     "name": "rewind",
     "description": "Volte o tempo da música",
     "aliases": [
