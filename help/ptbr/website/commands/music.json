@@ -23,6 +23,56 @@
     ]
   },
   {
+    "name": "now",
+    "description": "Veja em que momento da música você está",
+    "aliases": [
+      "tocando"
+    ],
+    "examples": [
+      "tocando"
+    ]
+  },
+  {
+    "name": "rewind",
+    "description": "Volte o tempo da música",
+    "aliases": [
+      "retroceder", "rwd" ,"rtcdr"
+    ],
+    "examples": [
+      "rwd 20s"
+    ]
+  },
+  {
+    "name": "forward",
+    "description": "Avançe o tempo da música",
+    "aliases": [
+      "avancar", "fwd"
+    ],
+    "examples": [
+      "fwd 20s"
+    ]
+  },
+  {
+    "name": "removemusic",
+    "description": "Remova músicas da playlist",
+    "aliases": [
+      "rmvmsc", "remove", "rmv"
+    ],
+    "examples": [
+      "rmv 3", "rmv 4,5,10"
+    ]
+  },
+{
+    "name": "repeat",
+    "description": "Repita a música que estiver tocando",
+    "aliases": [
+      "repetir", "rpt"
+    ],
+    "examples": [
+      "repetir"
+    ]
+  },
+  {
     "name": "pause",
     "description": "Precisa de um minuto de silêncio? Pause o que estiver tocando!",
     "aliases": [
