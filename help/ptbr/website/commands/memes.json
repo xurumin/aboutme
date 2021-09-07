@@ -70,16 +70,6 @@
         ]
     },
     {
-        "name": "meme",
-        "description": "Que tal receber um meme no seu canal?",
-        "aliases": [
-            ""
-        ],
-        "examples": [
-            "meme"
-        ]
-    },
-    {
         "name": "pedro",
         "description": "pedro",
         "aliases": [
