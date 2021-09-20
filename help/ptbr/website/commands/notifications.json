@@ -1,5 +1,17 @@
 [
     {
+        "name": "podcastnotify",
+        "description": "Saiba quando seu podcast favorito lançou episódio novo",
+        "aliases": [
+            "notificarpodcast"
+        ],
+        "examples": [
+            "podcastnotify",
+            "podcastnotify set https://open.spotify.com/show/22Wgt4ASeaw8mmoqAWNUn1",
+            "podcastnotify remove"
+        ]
+    },
+    {
         "name": "gameoffers",
         "description": "Receba em um canal do seu servidor as melhores ofertas de jogos",
         "aliases": [
