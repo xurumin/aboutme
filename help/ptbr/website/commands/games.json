@@ -13,18 +13,6 @@
       ]
     },
     {
-      "name": "guessthemusic",
-      "description": "Tente descobrir qual a música que está tocando",
-      "aliases": [
-        "gtm", "qualamusica", "witm", "whatisthemusic"
-      ],
-      "examples": [
-        "guessthemusic < gênero ou playlist do Spotify> <número de rodadas >",
-        "guessthemusic rock 5",
-        "guessthemusic https://open.spotify.com/playlist/37i9dQZF1DX6cg4h2PoN9y?si=bIR1__eaQBi7GRQuPLDLAw 10"
-      ]
-    },
-    {
       "name": "racing",
       "description": "Aposte com seus amigos numa corrida de carros divertida",
       "aliases": [
